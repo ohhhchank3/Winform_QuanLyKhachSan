@@ -1,0 +1,15 @@
+D:\HỌC KỲ 2 2021-2022\Lập trình trên Windows\Bài tập\Week 8\project_cuoiKy\project_cuoiKy\1\1\bin\Debug\net6.0\1.exe
+D:\HỌC KỲ 2 2021-2022\Lập trình trên Windows\Bài tập\Week 8\project_cuoiKy\project_cuoiKy\1\1\bin\Debug\net6.0\1.deps.json
+D:\HỌC KỲ 2 2021-2022\Lập trình trên Windows\Bài tập\Week 8\project_cuoiKy\project_cuoiKy\1\1\bin\Debug\net6.0\1.runtimeconfig.json
+D:\HỌC KỲ 2 2021-2022\Lập trình trên Windows\Bài tập\Week 8\project_cuoiKy\project_cuoiKy\1\1\bin\Debug\net6.0\1.dll
+D:\HỌC KỲ 2 2021-2022\Lập trình trên Windows\Bài tập\Week 8\project_cuoiKy\project_cuoiKy\1\1\bin\Debug\net6.0\1.pdb
+D:\HỌC KỲ 2 2021-2022\Lập trình trên Windows\Bài tập\Week 8\project_cuoiKy\project_cuoiKy\1\1\obj\Debug\net6.0\1.csproj.AssemblyReference.cache
+D:\HỌC KỲ 2 2021-2022\Lập trình trên Windows\Bài tập\Week 8\project_cuoiKy\project_cuoiKy\1\1\obj\Debug\net6.0\1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HỌC KỲ 2 2021-2022\Lập trình trên Windows\Bài tập\Week 8\project_cuoiKy\project_cuoiKy\1\1\obj\Debug\net6.0\1.AssemblyInfoInputs.cache
+D:\HỌC KỲ 2 2021-2022\Lập trình trên Windows\Bài tập\Week 8\project_cuoiKy\project_cuoiKy\1\1\obj\Debug\net6.0\1.AssemblyInfo.cs
+D:\HỌC KỲ 2 2021-2022\Lập trình trên Windows\Bài tập\Week 8\project_cuoiKy\project_cuoiKy\1\1\obj\Debug\net6.0\1.csproj.CoreCompileInputs.cache
+D:\HỌC KỲ 2 2021-2022\Lập trình trên Windows\Bài tập\Week 8\project_cuoiKy\project_cuoiKy\1\1\obj\Debug\net6.0\1.dll
+D:\HỌC KỲ 2 2021-2022\Lập trình trên Windows\Bài tập\Week 8\project_cuoiKy\project_cuoiKy\1\1\obj\Debug\net6.0\refint\1.dll
+D:\HỌC KỲ 2 2021-2022\Lập trình trên Windows\Bài tập\Week 8\project_cuoiKy\project_cuoiKy\1\1\obj\Debug\net6.0\1.pdb
+D:\HỌC KỲ 2 2021-2022\Lập trình trên Windows\Bài tập\Week 8\project_cuoiKy\project_cuoiKy\1\1\obj\Debug\net6.0\1.genruntimeconfig.cache
+D:\HỌC KỲ 2 2021-2022\Lập trình trên Windows\Bài tập\Week 8\project_cuoiKy\project_cuoiKy\1\1\obj\Debug\net6.0\ref\1.dll

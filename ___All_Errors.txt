@@ -1,0 +1,18 @@
+CorrelationId: be4eb2f4-c33b-4867-902f-1c6ca4b85e08
+UTC DateTime: 06/06/2023 09:47:43
+
+The following files/folders have not been downloaded
+0. project_cuoiKy/packages/Microsoft.CSharp.4.7.0/lib/portable-net45+win8+wp8+wpa81
+1. project_cuoiKy/packages/Microsoft.CSharp.4.7.0/ref/portable-net45+win8+wp8+wpa81
+2. project_cuoiKy/packages/System.Diagnostics.Contracts.4.3.0/lib/portable-net45+win8+wp8+wpa81
+3. project_cuoiKy/packages/System.Diagnostics.Contracts.4.3.0/ref/portable-net45+win8+wp8+wpa81
+4. project_cuoiKy/packages/System.Linq.4.3.0/lib/portable-net45+win8+wp8+wpa81
+5. project_cuoiKy/packages/System.Linq.4.3.0/ref/portable-net45+win8+wp8+wpa81
+6. project_cuoiKy/packages/System.Linq.Queryable.4.3.0/lib/portable-net45+win8+wp8+wpa81
+7. project_cuoiKy/packages/System.Linq.Queryable.4.3.0/ref/portable-net45+win8+wp8+wpa81
+8. project_cuoiKy/packages/System.Numerics.Vectors.4.5.0/lib/portable-net45+win8+wp8+wpa81
+9. project_cuoiKy/packages/System.Reflection.Emit.Lightweight.4.3.0/lib/portable-net45+wp8
+10. project_cuoiKy/packages/System.Reflection.Emit.Lightweight.4.3.0/ref/portable-net45+wp8
+11. project_cuoiKy/packages/System.Threading.Tasks.Extensions.4.5.4/lib/portable-net45+win8+wp8+wpa81
+12. project_cuoiKy/packages/System.ValueTuple.4.5.0/lib/portable-net40+sl4+win8+wp8
+13. project_cuoiKy/packages/System.ValueTuple.4.5.0/ref/portable-net40+sl4+win8+wp8
